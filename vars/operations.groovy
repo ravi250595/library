@@ -12,5 +12,5 @@ def sub(a,b)
 }
 def div(a,b)
 {
-   echp "the division of ${a} and ${b} is ${a/b}"
+   echo "the division of ${a} and ${b} is ${a/b}"
 }
